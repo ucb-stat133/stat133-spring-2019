@@ -9,6 +9,8 @@
 
 ## Calendar
 
++ __Instructor:__ Gaston Sanchez
++ __Lecture:__ MWF 3:00-4:00pm VLSB 2050
 + Tentative calendar (weekly topics), subject to changes depending on 
 the pace of the course.
 + Notes (:file_folder:) involves material discussed in class.
