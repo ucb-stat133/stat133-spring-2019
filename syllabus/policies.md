@@ -5,11 +5,11 @@
 
 __Stat 133: Concepts in Computing with Data__ is an introductory course to computational data analysis with an emphasis on five major cornerstones:
 
-- Data Manipulation (wrangling, reshaping, tidying)
-- Data Visualization (focus on statistical charts)
-- Programming Concepts (with emphasis on data analysis)
-- Data Technologies (various sources/formats of data)
-- Reporting Tools (via dynamic documents)
+- :wrench: Data Manipulation (wrangling, reshaping, tidying)
+- :bar_chart: Data Visualization (focus on statistical charts)
+- :computer: Programming Concepts (with emphasis on data analysis)
+- :rocket: Data Technologies (various sources/formats of data)
+- :bookmark_tabs: Reporting Tools (via dynamic documents)
 
 Because Stat 133 is one of the core courses of the Statistics Department, the underlying goal is to provide foundations for "computing with data" so that statistics-major students have the basic computational skills for subsequent upper division courses (e.g. Stat 150, 151A, 152, 153, 154, 155, 157, 158, 159). This involves teaching students how to:
 
