@@ -60,8 +60,8 @@ the pace of the course.
 - :newspaper: __Misc__:
     + [Introduction to R Markdown](http://rmarkdown.rstudio.com/lesson-1.html) (by RStudio)
 - :bulb: __Cheat sheet__: 
-    + [RStudio cheat sheet](../cheatsheets/rstudio-IDE-cheatsheet.pdf)
-    + [R markdown cheat sheet](../cheatsheets/rmarkdown-cheatsheet-2.0.pdf)
+    + [RStudio cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//rstudio-IDE-cheatsheet.pdf)
+    + [R markdown cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//rmarkdown-cheatsheet-2.0.pdf)
 - :dart: __WARM-UP 1__:
     + [Markdown practice](../hws/warmup01-markdown.pdf) (due Sep-04, open till Sep-18)
 
@@ -86,7 +86,7 @@ the pace of the course.
 - :newspaper: __Misc__:
     + [chapter 20: Vectors](http://r4ds.had.co.nz/vectors.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__: 
-    + [Base R](../cheatsheets/base-r-cheatsheet.pdf)
+    + [Base R](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//base-r-cheatsheet.pdf)
 - :dart: __WARM-UP 2__:
     + [Vectors and Factors](../hws/warmup02-vector-basics.pdf) (due Sep-11, open till Sep-18)
 
@@ -110,7 +110,7 @@ the pace of the course.
 - :newspaper: __Misc__:
     + [Linux Command Line tutorial](https://www.guru99.com/terminal-file-manager.html) (by Guru99)
 - :bulb: __Cheat sheet__:
-    + [command line cheat sheet](../cheatsheets/command-line-cheatsheet.pdf)
+    + [command line cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//command-line-cheatsheet.pdf)
 - :dart: __WARM-UP 3__:
     + [Data Frame Basics](../hws/warmup03-data-basics.pdf) (due Sep-18)
 
@@ -138,8 +138,8 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Data Import](http://r4ds.had.co.nz/data-import.html) (_R for Data Science_ by Grolemund and Wickham)
     + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
 - :bulb: __Cheat sheet__:
-    + [Data import cheat sheet](../cheatsheets/data-import-cheatsheet.pdf)
-    + [git cheat sheet](../cheatsheets/git-cheatsheet.pdf)
+    + [Data import cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-import-cheatsheet.pdf)
+    + [git cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//git-cheatsheet.pdf)
 - :dart: __WARM-UP 4__:
     + [Data Frame Basics](../hws/warmup04-exploring-nba.pdf) (due Sep-25)
 
@@ -164,8 +164,8 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
     + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
-    + [Data transformation cheat sheet](../cheatsheets/data-transformation-cheatsheet.pdf)
-    + [Data visualization with ggplot2](../cheatsheets/ggplot2-cheatsheet-2.1.pdf)
+    + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
+    + [Data visualization with ggplot2](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//ggplot2-cheatsheet-2.1.pdf)
 - :dart: __WORK-OUT 1__:
     + [Data Wrangling and Visualization](../hws/workout1-instructions.pdf) (due Oct-05)
 
@@ -187,7 +187,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :newspaper: __Misc__:
     + [Tidy Data](../papers/tidy-data-wickham) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
-    + [Data transformation cheat sheet](../cheatsheets/data-transformation-cheatsheet.pdf)
+    + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
 - :mortar_board: __MIDTERM 1__: Friday Oct-05
 
 
@@ -249,7 +249,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :newspaper: __Misc__:
     + [chapter 14: Strings](http://r4ds.had.co.nz/strings.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
-    + [Stringr cheat sheet](../cheatsheets/stringr-cheatsheet.pdf)
+    + [Stringr cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//stringr-cheatsheet.pdf)
 - :dart: __WORK-OUT 2__:
     + [Functions, tests, and strings](../hws/workout02-instructions.pdf) (due Nov-05)
 
@@ -270,7 +270,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :microscope: __Lab__:
     + [Regular Expressions](../labs/lab10-regex-basics.md) (due Nov-02)
 - :bulb: __Cheat sheet__:
-    + [Regular Expressions cheat sheet](../cheatsheets/regular-expressions-cheatsheet.pdf)
+    + [Regular Expressions cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//regular-expressions-cheatsheet.pdf)
 - :dart: __WORK-OUT 2__:
     + _Keep working on your workout02 assignment._
 
@@ -294,7 +294,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Part 2 - How to customize reactions](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=42m2s) (video)
     + [Part 3 - How to customize appearance](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=1h32m41s) (video)
 - :bulb: __Cheat sheet__:
-    + [shiny cheat sheet](../cheatsheets/shiny-cheatsheet.pdf)
+    + [shiny cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//shiny-cheatsheet.pdf)
 - :dart: __WARM-UP 7__:
     + [Strings and Regular Expressions](../hws/warmup07-strings.pdf) (due Nov-13)
 
@@ -315,7 +315,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :microscope: __Lab__:
     + [HTML and Web scraping](../labs/lab12-web-scraping.md) (due Nov-17)
 - :bulb: __Cheat sheet__:
-    + [Package Development cheat sheet](../cheatsheets/packages-cheatsheet.pdf)
+    + [Package Development cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//packages-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__: 
     + [R package](../hws/workout03-package-roller.pdf) due Dec-02
 
@@ -345,7 +345,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :microscope: __Lab__:
     + Take advantage of lab discussion to work on the workout03 assignment
 - :bulb: __Cheat sheet__:
-    + [Package Development cheat sheet](../cheatsheets/packages-cheatsheet.pdf)
+    + [Package Development cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//packages-cheatsheet.pdf)
 
 
 -----
