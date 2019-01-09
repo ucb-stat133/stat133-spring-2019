@@ -15,7 +15,6 @@ Because Stat 133 is one of the core courses of the Statistics Department, the un
 
 - understand common data formats,
 - use the computer extensively to conduct statistical analysis of data,
-- use existing software rather than build routines from the ground up,
 - understand how to visualize data and display statistical information,
 - learn the basic principles for writing code,
 - organize your workflow,
@@ -39,18 +38,20 @@ Students with some prior experience in either computational statistics or comput
 
 We expect that, at the end of the course, you understand the general principles of data analysis projects, and the three stages of the _Data Analysis Cycle (DAC)_. This means that you can take a data set (in some common format), clean it, tidy it, get visualizations, write code, and report the results in a varied number of formats.
 
+![Data Analysis Cycle](../images/dac.png)
+
 We don't expect you to become a jedi data scientist, an R ninja, or a super coder. That takes YEARS of practice, training, learning, and collaborating. Instead, we want you to become a skilled [padawan](http://starwars.wikia.com/wiki/Padawan) analyst (which, if interested, can be prepared to take the next steps of a data science marathon race).
 
 
 
 ### Methods of Instruction
 
-We will be using a combination of materials such as slides, tutorials, reading assignments, open books, and chalk-and-talk.
+We will be using a combination of materials such as slides, tutorials, computer labs, reading assignments, open books, and chalk-and-talk.
 
 The main computational tool will be the [computing and programming environment R](https://www.r-project.org/). 
 The main workbench will be the IDE [RStudio](https://www.rstudio.com/).
-You will also use a terminal emulator to work with command line.
-Likewise, you will use Git to version control some assignments, and submit them to Github.
+You will also use a [command line interface](https://en.wikipedia.org/wiki/Command-line_interface) to interact with your operating system.
+Likewise, you will use [Git](https://git-scm.com/) to version control some assignments, and submit them to [Github](https://github.com/).
 
 
 
