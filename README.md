@@ -11,7 +11,7 @@
 
 + __Instructor:__ Gaston Sanchez
 + __Lecture:__ MWF 3:00-4:00pm VLSB 2050
-+ Tentative calendar (weekly topics), subject to changes depending on 
++ Tentative calendar (weekly topics), subject to change depending on 
 the pace of the course.
 + Notes (:file_folder:) involves material discussed in class.
 + Reading (:book:) involves material that expands lecture topics, as well as coding examples that you should practice on your own.
@@ -23,7 +23,7 @@ the pace of the course.
 
 ## 0. Course Introduction
 
-- :card_index: __Dates__: Aug 22-24
+- :card_index: __Dates__: Jan 22-25
 - :paperclip: __Topics__: Welcome to Stat 133. We begin with the usual review of the course policies/logistics, expectations, topics in a nutshell, etc. Then, we move on with an unconventional introduction to _computing with data_ using my favorite analogy "Data Analysis is a lot like Cooking".
 - :file_folder: __Notes__:
     + [Welcome to Stat 133](../slides/00-welcome.pdf) (slides)
@@ -45,7 +45,7 @@ the pace of the course.
 
 ## 1. The Big Picture and R Survival Skills
 
-- :card_index: __Dates__: Aug 27-31
+- :card_index: __Dates__: Jan 28-Feb 01
 - :paperclip: __Topics__: First things first. At the conceptual level we'll discuss how data analysis projects usually start with a Research Question. Also, we'll describe how Data can actually be seen from a triangular perspective (i.e. my "3 Views of Data"). At the practical level, you'll begin learning basic survival skills for R, followed by an overall review of the RStudio workspace. Then we move on to discuss basic data types and their implementation in R around vectors and other data structures. 
 - :file_folder: __Notes__:
     + [The Starting Point: Research Questions](../slides/02-research-question.pdf) (slides)
@@ -71,7 +71,7 @@ the pace of the course.
 
 ## 2. More Data Structures: Arrays, Lists, and Dataframes
 
-- :card_index: __Dates__: Sep 03-07 _(Holiday Sep-03)_
+- :card_index: __Dates__: Feb 04-08
 - :paperclip: __Topics__: In this week you'll keep learning more about R data structures like arrays and lists. More specifically, we'll focus on fundamental concepts like atomicity, vectorization, recycling, and subsetting. And given that we are studying vectors and its cousins, we'll briefly review the traditional _base_ graphics approach that is based on R vectors.
 - :file_folder: __Notes__:
     + [Arrays and Factors](../slides/05-arrays-factors.pdf) (slides)
@@ -96,7 +96,7 @@ the pace of the course.
 
 ## 3. Housekeeping: Filesystem and Bash Commands
 
-- :card_index: __Dates__: Sep 10-14
+- :card_index: __Dates__: Feb 11-15
 - :paperclip: __Topics__: Data Analysis Projects (DAPs) are made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands. At the practical level, you will have the chance to practice some data manipulation operations on data frames.
 - :file_folder: __Notes__:
     + [Filesystem Basics](../slides/09-filesystem-basics.pdf) (slides)
@@ -120,7 +120,7 @@ the pace of the course.
 
 ## 4. Housekeeping: Version Control with Git and GitHub
 
-- :card_index: __Dates__: Sep 17-21
+- :card_index: __Dates__: Feb 18-22 _(Holiday Feb-18)_
 - :paperclip: __Topics__: We continue talking about filestructure topics, and we introduce basic notions of version control systems (VCS) using Git, and the companion hosting platform GitHub.
 On the Data side, we begin our discussion about Tables: the most common form in which data is stored, handled, and manipulated. Consequently, we need to talk about the typical storage formats of tabular data, and the relationship between tables and R data frames.
 - :file_folder: __Notes__:
@@ -149,7 +149,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 5. Transforming and Visualizing Tabular Data
 
-- :card_index: __Dates__: Sep 24-28
+- :card_index: __Dates__: Feb 25-Mar 01
 - :paperclip: __Topics__: Because data tables are so ubiquitous, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. Likewise, we begin a comprehensive discussion on concepts for data visualization.
 - :file_folder: __Notes__:
     + [Datavis: Introduction](../slides/17-data-vis1.pdf) (slides)
@@ -175,7 +175,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 6. More Visualization
 
-- :card_index: __Dates__: Oct 01-05
+- :card_index: __Dates__: Mar 04-08
 - :paperclip: __Topics__: We continue reviewing more concepts of data visualization. 
 - :file_folder: __Notes__:
     + [Datavis: Using Color](../slides/20-data-vis4.pdf) (slides)
@@ -197,7 +197,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 7. Transition to Programming Basics for Data Analysis (part 1)
 
-- :card_index: __Dates__: Oct 08-12
+- :card_index: __Dates__: Mar 11-15
 - :paperclip: __Topics__: You don’t need to be an expert programmer to be a data scientist, but learning more about programming allows you to automate common tasks, and solve new problems with greater ease. We'll discuss how to write basic functions, the notion of R expressions, and an introduction to conditionals. 
 - :file_folder: __Notes__:
     + [Creating functions](../tutorials/06-creating-functions.md) (tutorial)
@@ -216,7 +216,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 8. Programming Basics for Data Analysis (part 2)
 
-- :card_index: __Dates__: Oct 15-19
+- :card_index: __Dates__: Mar 18-22
 - :paperclip: __Topics__: In addition to writing functions to reduce duplication in your code, you also need to learn about iteration, which helps you when you need to do the same operation several times. Namely, we review control flow structures such as `for` loops, `while` loops, `repeat` loops, and the `apply` family functions.
 - :file_folder: __Notes__:
     + [Introduction to loops](../tutorials/09-intro-to-loops.md) (tutorial)
@@ -234,9 +234,18 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 9. Manipulating Character Strings and Testing Functions
+## 9. Spring Recess
 
-- :card_index: __Dates__: Oct 22-26
+- :card_index: __Dates__: Mar 25-29
+- :paperclip: __Topics__: 
+
+
+-----
+
+
+## 10. Manipulating Character Strings and Testing Functions
+
+- :card_index: __Dates__: Apr 01-05
 - :paperclip: __Topics__: At its heart, computing involves working with numbers. However, a considerable amount of information and data is in the form of text. Therefore, you also need to learn about character strings, and how to perform basic manipulation of strings. In parallel, we'll keep working on writing functions, especially focusing on testing functions.
 - :file_folder: __Notes__:
     + [Intro to testing functions](../tutorials/11-testing-functions.md) (tutorial)
@@ -257,9 +266,9 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 10. Regular Expressions
+## 11. Regular Expressions
 
-- :card_index: __Dates__: Oct 29 - Nov 01
+- :card_index: __Dates__: Apr 08-12
 - :paperclip:  __Topics__: To unleash the power of strings manipulation, we need to take things to the next level and learn about Regular Expressions. Namely, Regular expressions are a tool that allows us to describe a certain amount of text called "patterns". We'll describe the basic concepts of regex and the common operations to match text patterns.
 - :file_folder: __Notes__:
     + [Regexpal](http://regexpal.com.s3-website-us-east-1.amazonaws.com/) tester tool.
@@ -278,9 +287,9 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 11. Random Numbers, Simulations, and Shiny Apps
+## 12. Random Numbers, Simulations, and Shiny Apps
 
-- :card_index: __Dates__: Nov 05-09
+- :card_index: __Dates__: Apr 15-19
 - :paperclip: __Topics__: Random numbers have many applications in science and computer programming, especially when there are significant uncertainties in a phenomenon of interest. In this part of the course we'll look at some basic problems involving working with random numbers and creating simulations. Jointly, we will briefly discuss Shiny apps to better visualize the results of some simulations. This type of apps are a nice companion to R, making it quick and simple to deliver interactive analysis and graphics on any web browser.
 - :file_folder: __Notes__:
     + [Introduction to random numbers](../tutorials/14-intro-to-random-numbers.md)
@@ -302,9 +311,9 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 12. R packaging (part 1)
+## 13. R packaging (part 1)
 
-- :card_index: __Dates__: Nov 12-16 _(Holiday Nov-12)_
+- :card_index: __Dates__: Apr 22-26
 - :paperclip: __Topics__: Packages are the fundamental units of reproducible R code. They include reusable functions, the documentation that describes how to use them, and sample data. In this part we'll start describing how to turn your code into an R package.
 - :file_folder: __Notes__:
     + [Programming S3 Classes](http://www.gastonsanchez.com/packyourcode/coin.html)
@@ -323,20 +332,9 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 13. Thanksgiving Week
-
-- :card_index: __Dates__: Nov 19-23 _(Holiday Nov 21-23)_
-- :paperclip: __Topics__: More about creating an R package
-- :file_folder: __Notes__:
-    + Discussion on the R packaging process (chalk and talk).
-
-
------
-
-
 ## 14. R Packaging (part 2)
 
-- :card_index: __Dates__: Nov 26-30
+- :card_index: __Dates__: Apr 29-May 03
 - :paperclip: __Topics__: Creating an R package can seem overwhelming at first. So we'll keep working on the creation of a relatively basic package. This will give you the opportunity to apply most of the concepts seen in the course.
 - :file_folder: __Notes__:
     + [Pack YouR Code](http://www.gastonsanchez.com/packyourcode) (by Sanchez)
@@ -353,12 +351,12 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 15. RRR Week and Final Exam
 
-- :card_index: __Dates__: Dec 03-07
+- :card_index: __Dates__: May 06-10
 - :paperclip: __Topics__: Prepare for final examination
 - :file_folder: __Notes__:
     + No lecture. Instructor will hold OH (in 309 Evans)
-- :mortar_board: __FINAL__: Mon Dec-10, 7-10pm (Dwinelle 155 and Hearst Gym 228)
-    + See announcement about the final test on bCourses
+- :mortar_board: __FINAL__: TBA May-day, time1-time2 (Room ???)
+    + More details abot the final will be posted on bCourses
 
 
 -----
