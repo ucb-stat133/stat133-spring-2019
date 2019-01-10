@@ -103,7 +103,7 @@ __Stat 159: Reproducible and Collaborative Statistical Data Science__.
 
 ### What is the best way to get help in this course?
 
-Your best options are to go to [office hours](../staff.md) held by the course staff, or to ask questions on [Piazza](../piazza.md).
+Your best options are to go to [office hours](staff.md) held by the course staff, or to ask questions on [Piazza](piazza.md).
 
 
 ### How do you prepare for tests (midterm and final)?
