@@ -101,9 +101,14 @@ practices that are useful in RR, but the dedicated course for this topic is
 __Stat 159: Reproducible and Collaborative Statistical Data Science__.
 
 
+### What is the best way to get help in this course?
+
+Your best options are to go to [office hours](../staff.md) held by the course staff, or to ask questions on [Piazza](../piazza.md).
+
+
 ### How do you prepare for tests (midterm and final)?
 
-This course requires many hours of practical work outside class and lab. It also requires reviewing all the material available in the [calendar of topics](../../). Having said that, the midterm and final exams are a way to test your understanding of the various concepts presented in the course. The exams are also a way to test whether you really did all the practical work by yourself.
+This course requires many hours of practical work outside class and lab. It also requires reviewing all the material available in the [calendar of topics](../../README.md). Having said that, the midterm and final exams are a way to test your understanding of the various concepts presented in the course. The exams are also a way to test whether you really did all the practical work by yourself.
 
 In theory, students who do an honest effort in completing all the assignments (e.g. writing commands, understanding commands, learning the syntax, etc) should not struggle answering the tests.
 
@@ -118,7 +123,7 @@ This one is hard to answer, in part because it depends on your personal definiti
 ### Do we need to memorize all commands?
 
 No. We don't expect that you memorize all commands. However, we do expect that 
-you learn the most common types of functions: e.g. `library()`, `function()`, `help()`, etc. Likewise, we expect that you understand the "logic" and working principles of certain data objects and programming structures.
+you learn the most common types of functions: e.g. `library()`, `function()`, `help()`, etc. Likewise, we expect that you understand the "logic" and working principles of certain data objects, common programming structures, good practices, etc.
 
 
 ### Are we going to learn how to create an R package?
