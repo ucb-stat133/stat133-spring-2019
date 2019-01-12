@@ -38,7 +38,7 @@ Students with some prior experience in either computational statistics or comput
 
 We expect that, at the end of the course, you understand the general principles of data analysis projects, and the three stages of the _Data Analysis Cycle (DAC)_. This means that you can take a data set (in some common format), clean it, tidy it, get visualizations, write code, and report the results in a varied number of formats.
 
-<img src="../images/dac.png" width="200" height="200"></a>
+<img src="../images/dac.png" width="350" height="300"></a>
 
 
 We don't expect you to become a jedi data scientist, an R ninja, or a super coder. That takes YEARS of practice, training, learning, and collaborating. Instead, we want you to become a skilled [padawan](http://starwars.wikia.com/wiki/Padawan) analyst (which, if interested, can be prepared to take the next steps of a data science marathon race).
