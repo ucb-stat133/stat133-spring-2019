@@ -188,7 +188,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Tidy Data](../papers/tidy-data-wickham) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
     + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
-- :mortar_board: __MIDTERM 1__: Friday Oct-05
+- :mortar_board: __MIDTERM 1__: Friday Mar-08
 
 
 
@@ -237,7 +237,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 ## 9. Spring Recess
 
 - :card_index: __Dates__: Mar 25-29
-- :paperclip: __Topics__: 
+- :paperclip: __Topics__: _Recharge your batteries_
 
 
 -----
