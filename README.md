@@ -26,12 +26,13 @@ the pace of the course.
 - :card_index: __Dates__: Jan 22-25
 - :paperclip: __Topics__: Welcome to Stat 133. We begin with the usual review of the course policies/logistics, expectations, topics in a nutshell, etc. Then, we move on with an unconventional introduction to _computing with data_ using my favorite analogy "Data Analysis is a lot like Cooking".
 - :file_folder: __Notes__:
-    + [Welcome to Stat 133](../slides/00-welcome.pdf) (slides)
-    + [Data Analysis is a lot like cooking](../slides/01-dac-cooking.pdf) (slides)
+    + [Welcome to Stat 133](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-00-welcome.pdf)
+    + [Data Analysis is a lot like cooking](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-01-dac-cooking.pdf)
+    + [Data Analysis Cycle: Example](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-02-dac-example.pdf)
 - :book: __Reading__:
-    + [Course policies](policies.md)
-    + [Piazza etiquette](piazza.md)
-    + [FAQs](faqs.md)
+    + [Course policies](syllabus/policies.md)
+    + [Piazza etiquette](syllabus/piazza.md)
+    + [FAQs](syllabus/faqs.md)
 - :microscope: __Lab__: No lab
 - :newspaper: __Misc__:
     + [What is Data Science?](../papers/what-is-data-science.pdf)
@@ -48,10 +49,11 @@ the pace of the course.
 - :card_index: __Dates__: Jan 28-Feb 01
 - :paperclip: __Topics__: First things first. At the conceptual level we'll discuss how data analysis projects usually start with a Research Question. Also, we'll describe how Data can actually be seen from a triangular perspective (i.e. my "3 Views of Data"). At the practical level, you'll begin learning basic survival skills for R, followed by an overall review of the RStudio workspace. Then we move on to discuss basic data types and their implementation in R around vectors and other data structures. 
 - :file_folder: __Notes__:
-    + [The Starting Point: Research Questions](../slides/02-research-question.pdf) (slides)
-    + [The Three Views of Data](../slides/03-data-perspectives.pdf) (slides)
+    + [The Starting Point: Research Questions](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-03-research-question.pdf)
+    + [The Three Views of Data](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-04-data-perspectives.pdf)
     + Be the Boss of your Data (talk and chalk)
-    + [Data Types and Vectors](../slides/04-R-vector-types.pdf) (slides)
+    + [Data Types](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-06-data-types.pdf)
+    + [Data Types and Vectors](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-07-vectors.pdf)
 - :book: __Reading__:
     + [First contact with R](../tutorials/01-intro-to-R.md) (tutorial)
     + [Intro to Rmd files](../tutorials/02-intro-to-Rmd-files.md) (tutorial)
@@ -74,11 +76,10 @@ the pace of the course.
 - :card_index: __Dates__: Feb 04-08
 - :paperclip: __Topics__: In this week you'll keep learning more about R data structures like arrays and lists. More specifically, we'll focus on fundamental concepts like atomicity, vectorization, recycling, and subsetting. And given that we are studying vectors and its cousins, we'll briefly review the traditional _base_ graphics approach that is based on R vectors.
 - :file_folder: __Notes__:
-    + [Arrays and Factors](../slides/05-arrays-factors.pdf) (slides)
-    + [Lists](../slides/06-lists.pdf) (slides)
-    + [Data Frames](../slides/07-data-frames.pdf) (slides)
-    + [Base Graphics I](../slides/08a-base-graphics1.pdf) (slides)
-    + [Base Graphics II](../slides/08b-base-graphics2.pdf) (slides)
+    + [Arrays and Factors](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-08-arrays-factors.pdf)
+    + [Lists](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-09-lists.pdf)
+    + [Data Frames (1)](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-10-data-frames1.pdf)
+    + [Data Frames (2)](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-11-data-frames2.pdf)
 - :book: __Reading__:
     + [Intro to vectors](../tutorials/03-intro-to-vectors.md) (tutorial)
 - :microscope: __Lab__:
@@ -99,9 +100,11 @@ the pace of the course.
 - :card_index: __Dates__: Feb 11-15
 - :paperclip: __Topics__: Data Analysis Projects (DAPs) are made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands. At the practical level, you will have the chance to practice some data manipulation operations on data frames.
 - :file_folder: __Notes__:
-    + [Filesystem Basics](../slides/09-filesystem-basics.pdf) (slides)
-    + [Shell Basics](../slides/10-shell-basics.pdf) (slides)
-    + [Working with files](../slides/11-working-with-files.pdf) (slides)
+    + [Filesystem Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-12-filesystem-basics.pdf)
+    + [Shell Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-13-file-paths.pdf)
+    + [Shell Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-14-shell-basics.pdf)
+    + [Command Line](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-15-command-line.pdf)
+    + [Working with files](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-16-working-with-files.pdf)
 - :book: __Reading__:
     + [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) lessons 1-5 (by Ryan Chadwick)
     + [The Unix Shell](http://swcarpentry.github.io/shell-novice/) lessons 1-3 (by Software Carpentry)
