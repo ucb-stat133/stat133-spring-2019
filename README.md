@@ -65,7 +65,7 @@ the pace of the course.
     + [RStudio cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//rstudio-IDE-cheatsheet.pdf)
     + [R markdown cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//rmarkdown-cheatsheet-2.0.pdf)
 - :dart: __WARM-UP 1__:
-    + [Markdown practice](../hws/warmup01-markdown.pdf) (due Sep-04, open till Sep-18)
+    + Markdown practice (due Feb-03, open till Feb-17)
 
 
 -----
@@ -89,7 +89,7 @@ the pace of the course.
 - :bulb: __Cheat sheet__: 
     + [Base R](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//base-r-cheatsheet.pdf)
 - :dart: __WARM-UP 2__:
-    + [Vectors and Factors](../hws/warmup02-vector-basics.pdf) (due Sep-11, open till Sep-18)
+    + TBA (due Feb-10, open till Feb-17)
 
 
 -----
@@ -115,7 +115,7 @@ the pace of the course.
 - :bulb: __Cheat sheet__:
     + [command line cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//command-line-cheatsheet.pdf)
 - :dart: __WARM-UP 3__:
-    + [Data Frame Basics](../hws/warmup03-data-basics.pdf) (due Sep-18)
+    + TBA (due Feb-17)
 
 
 -----
@@ -144,7 +144,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Data import cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-import-cheatsheet.pdf)
     + [git cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//git-cheatsheet.pdf)
 - :dart: __WARM-UP 4__:
-    + [Data Frame Basics](../hws/warmup04-exploring-nba.pdf) (due Sep-25)
+    + TBA (due Feb-24)
 
 
 -----
@@ -170,7 +170,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
     + [Data visualization with ggplot2](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//ggplot2-cheatsheet-2.1.pdf)
 - :dart: __WORK-OUT 1__:
-    + [Data Wrangling and Visualization](../hws/workout1-instructions.pdf) (due Oct-05)
+    + TBA (due Mar-10)
 
 
 -----
@@ -211,7 +211,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :newspaper: __Misc__: 
     + [chapter 19: Functions](http://r4ds.had.co.nz/functions.html) (_R for Data Science_ by Grolemund and Wickham)
 - :dart: __WARM-UP 5__:
-    + [Function Basics](../hws/warmup05-functions.pdf) (due Oct-16)
+    + TBA (due Mar-17)
 
 
 -----
@@ -231,7 +231,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :newspaper: __Misc__:
     + [chapter 21: Iteration](http://r4ds.had.co.nz/iteration.html) (_R for Data Science_ by Grolemund and Wickham)
 - :dart: __WARM-UP 6__:
-    + [Pipelines and Programming Basics](../hws/warmup06-loops.pdf) (due Oct-23)
+    + TBA (due Mar-24)
 
 
 -----
@@ -263,7 +263,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Stringr cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//stringr-cheatsheet.pdf)
 - :dart: __WORK-OUT 2__:
-    + [Functions, tests, and strings](../hws/workout02-instructions.pdf) (due Nov-05)
+    + TBA (due Apr-14)
 
 
 -----
@@ -308,7 +308,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [shiny cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//shiny-cheatsheet.pdf)
 - :dart: __WARM-UP 7__:
-    + [Strings and Regular Expressions](../hws/warmup07-strings.pdf) (due Nov-13)
+    + TBA (due Apr-21)
 
 
 -----
@@ -329,7 +329,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Package Development cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//packages-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__: 
-    + [R package](../hws/workout03-package-roller.pdf) due Dec-02
+    + TBA due May-03
 
 
 -----
