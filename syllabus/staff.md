@@ -5,7 +5,6 @@
 - __Session Dates:__ 01/22/19 - 05/10/19
 - __Code #:__ 24723
 - __Units:__ 3 (more info [here](http://classes.berkeley.edu/content/2019-spring-stat-133-001-lec-001))
-- __Final:__ TBD May 13-17, 2019 (room TBD)
 - __Office Hours:__ You can go to the office hours of __any__ staff member.
 
 
