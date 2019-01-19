@@ -21,6 +21,8 @@ In order to make Piazza a better resource for everyone, we've outlined
 some guidelines for you to follow when posting on Piazza. Questions 
 which follow these guidelines will have a higher chance of being answered!
 
+__Signup link:__ [piazza.com/berkeley/spring2019/stat133sp19](piazza.com/berkeley/spring2019/stat133sp19)
+
 
 ### Keep in mind common rules of netiquette when using Piazza.
 
