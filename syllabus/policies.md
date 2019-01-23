@@ -90,7 +90,7 @@ for participation (i.e. all or nothing).
 - In lieu of offering exceptions or extensions, your lowest lab score will be dropped in the calculation of your overall grade.
 - If you finish the lab early, we encourage you to help others with their lab.
 - You can get credit for each lab in one of two ways described below:
-    + Attend your lab section, make progress substantial enough for your work to be checked off by course staff, and submit your lab (even if it is incomplete) by the end of the lab period. Note that your submitted work need not be complete in order to receive full credit if you were checked off.
+    + Attend your lab section, make progress substantial enough for your work to be checked off by course staff, and submit your lab (even if it is incomplete) by the end of the lab period.
     + Complete the lab on your own and submit the completed lab by Thursday morning at 8:59am. If you choose this route, you must finish the entire lab. This option is not encouraged by the course staff, and is only recommended if you are sure that you will not be able to make lab a certain week.
 
 

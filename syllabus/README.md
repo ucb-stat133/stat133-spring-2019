@@ -2,5 +2,5 @@
 
 - [Policies](policies.md)
 - [Staff](staff.md)
-- [FAQ](faqs.md)
 - [Piazza](piazza.md)
+- [FAQ](faqs.md)
