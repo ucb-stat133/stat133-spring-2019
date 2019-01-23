@@ -36,7 +36,7 @@ the pace of the course.
     + [FAQs](syllabus/faqs.md)
 - :microscope: __Lab__: No lab
 - :newspaper: __Misc__:
-    + [What is Data Science?](../papers/what-is-data-science.pdf)
+    + [What is Data Science?](https://github.com/ucb-stat133/stat133-misc/blob/master/what-is-data-science.pdf)
 - :speaker: __To Do__: 
     + Install [__R__](https://cran.cnr.berkeley.edu/) 
     + Install [RStudio](https://www.rstudio.com/products/rstudio/download/#download) Desktop (open source version, free)
@@ -189,7 +189,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :microscope: __Lab__:
     + [More data wrangling, and exporting outputs](../labs/lab06-more-data-wrangling.md) (due Oct-06)
 - :newspaper: __Misc__:
-    + [Tidy Data](../papers/tidy-data-wickham) (by Hadley Wickham)
+    + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
     + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
 - :mortar_board: __MIDTERM 1__: Friday Mar-08
@@ -256,7 +256,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Character strings in R](http://www.gastonsanchez.com/r4strings/chars.html) (_r4strings_ by Sanchez)
     + [Basic string manipulations](http://www.gastonsanchez.com/r4strings/manip.html) (_r4strings_ by Sanchez)
 - :book: __Reading__:
-    + [testthat: Get started with testing](../papers/testthat-wickham.pdf) (by Wickham)
+    + [testthat: Get started with testing](https://github.com/ucb-stat133/stat133-misc/blob/master/testthat-wickham.pdf) (by Wickham)
 - :microscope: __Lab__: 
     + [Getting started with strings](../labs/lab09-tests-strings-basics.md) (due Oct-27)
 - :newspaper: __Misc__:
