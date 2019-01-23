@@ -1,8 +1,9 @@
 # Stat 133: Concepts in Computing with Data
 
 - [Policies](syllabus/policies.md)
-- [FAQ](syllabus/faqs.md)
+- [Staff](syllabus/staff.md)
 - [Piazza](syllabus/piazza.md)
+- [FAQ](syllabus/faqs.md)
 
 -----
 
