@@ -22,8 +22,8 @@
 
 | Lab | Date        | Room         | GSI                |
 |-----|-------------|--------------|--------------------|
-| 101 | Th 9am-12pm | 342 Evans    | Colin Kou |
-| 102 | Th 9am-12pm | 330 Evans    | Dodo Qian |
+| 101 | Th 9am-11am | 342 Evans    | Colin Kou |
+| 102 | Th 9am-11am | 330 Evans    | Dodo Qian |
 | 103 | Th 11am-1pm | 342 Evans    | Yulun Wu |
 | 104 | Th 11am-1pm | 330 Evans    | Colin Kou |
 | 105 | Th 1pm-3pm  | 342 Evans    | Miyabi Ishihara |
@@ -31,7 +31,7 @@
 | 108 | Th 3pm-5pm  | 330 Evans    | Yulun Wu |
 | 109 | Fr 9am-11am | 342 Evans    | Miyabi Ishihara |
 | 110 | Fr 11am-1pm | 342 Evans    | Shuni Li |
-| 111 | Fr 12pm-1pm | 340 Evans    | TBA |
+| 111 | Fr 12pm-2pm | 340 Evans    | TBA |
 | 112 | Fr 1pm-3pm  | 342 Evans    | Shuni Li |
 
 
