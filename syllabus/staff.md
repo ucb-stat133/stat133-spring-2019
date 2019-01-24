@@ -10,31 +10,29 @@
 
 | Name               | Room      | Day/Time              |
 |:-------------------|:----------|:----------------------|
-| Gaston Sanchez     | 309 Evans | TBD |
-| GSI 1              | xyz Evans | TBD |
-| GSI 2              | xyz Evans | TBD |
-| GSI 3              | xyz Evans | TBD |
-| GSI 4              | xyz Evans | TBD |
-| GSI 5              | xyz Evans | TBD |
-| GSI 6              | xyz Evans | TBD |
+| Gaston Sanchez     | 309 Evans | WF 4-5pm in 309 Evans |
+| Miyabi Ishihara    | xyz Evans | TBD |
+| Colin Kou          | xyz Evans | TBD |
+| Shuni Li           | xyz Evans | TBD |
+| Dodo Qian          | xyz Evans | TBD |
+| Yulun Wu           | xyz Evans | TBD |
 
 
 - __Lab Sections:__
 
 | Lab | Date        | Room         | GSI                |
 |-----|-------------|--------------|--------------------|
-| 101 | Th 9am-12pm | 342 Evans    | TBA |
-| 102 | Th 9am-12pm | 330 Evans    | TBA |
-| 103 | Th 11am-1pm | 342 Evans    | TBA |
-| 104 | Th 11am-1pm | 330 Evans    | TBA |
-| 105 | Th 1pm-3pm  | 342 Evans    | TBA |
-| 106 | Th 1pm-3pm  | 330 Evans    | TBA |
-| 107 | Th 3pm-5pm  | 342 Evans    | TBA |
-| 108 | Th 3pm-5pm  | 330 Evans    | TBA |
-| 109 | Fr 9am-11am | 342 Evans    | TBA |
-| 110 | Fr 11am-1pm | 342 Evans    | TBA |
+| 101 | Th 9am-12pm | 342 Evans    | Colin Kou |
+| 102 | Th 9am-12pm | 330 Evans    | Dodo Qian |
+| 103 | Th 11am-1pm | 342 Evans    | Yulun Wu |
+| 104 | Th 11am-1pm | 330 Evans    | Colin Kou |
+| 105 | Th 1pm-3pm  | 342 Evans    | Miyabi Ishihara |
+| 107 | Th 3pm-5pm  | 342 Evans    | Dodo Qian |
+| 108 | Th 3pm-5pm  | 330 Evans    | Yulun Wu |
+| 109 | Fr 9am-11am | 342 Evans    | Miyabi Ishihara |
+| 110 | Fr 11am-1pm | 342 Evans    | Shuni Li |
 | 111 | Fr 12pm-1pm | 340 Evans    | TBA |
-| 112 | Fr 1pm-3pm  | 342 Evans    | TBA |
+| 112 | Fr 1pm-3pm  | 342 Evans    | Shuni Li |
 
 
 -----
