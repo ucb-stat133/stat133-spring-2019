@@ -10,7 +10,7 @@
 
 | Name               | Room      | Day/Time              |
 |:-------------------|:----------|:----------------------|
-| Gaston Sanchez     | 309 Evans | WF 4-5pm in 309 Evans |
+| Gaston Sanchez     | 309 Evans | MW 4-5:30pm in 309 Evans |
 | Miyabi Ishihara    | xyz Evans | TBD |
 | Colin Kou          | xyz Evans | TBD |
 | Shuni Li           | xyz Evans | TBD |
