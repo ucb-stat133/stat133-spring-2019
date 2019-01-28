@@ -66,7 +66,7 @@ the pace of the course.
     + [RStudio cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//rstudio-IDE-cheatsheet.pdf)
     + [R markdown cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//rmarkdown-cheatsheet-2.0.pdf)
 - :dart: __WARM-UP 1__:
-    + Markdown practice (due Feb-03, open till Feb-17)
+    + [Markdown practice](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/warmup01.pdf) (due Feb-03, open till Feb-17)
 
 
 -----
@@ -102,7 +102,7 @@ the pace of the course.
 - :paperclip: __Topics__: Data Analysis Projects (DAPs) are made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands. At the practical level, you will have the chance to practice some data manipulation operations on data frames.
 - :file_folder: __Notes__:
     + [Filesystem Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-12-filesystem-basics.pdf)
-    + [Shell Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-13-file-paths.pdf)
+    + [File Paths](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-13-file-paths.pdf)
     + [Shell Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-14-shell-basics.pdf)
     + [Command Line](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-15-command-line.pdf)
     + [Working with files](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-16-working-with-files.pdf)
