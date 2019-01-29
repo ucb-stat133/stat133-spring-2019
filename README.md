@@ -56,10 +56,10 @@ the pace of the course.
     + [Data Types](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-06-data-types.pdf)
     + [Data Types and Vectors](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-07-vectors.pdf)
 - :book: __Reading__:
-    + [First contact with R](../tutorials/01-intro-to-R.md) (tutorial)
-    + [Intro to Rmd files](../tutorials/02-intro-to-Rmd-files.md) (tutorial)
+    + [First contact with R](https://github.com/ucb-stat133/stat133-tutorials/blob/master/01-intro-to-R.md) (tutorial)
+    + [Intro to Rmd files](https://github.com/ucb-stat133/stat133-tutorials/blob/master/02-intro-to-Rmd-files.md) (tutorial)
 - :microscope: __Lab__:
-    + [Getting started with R and RStudio](../labs/lab01-R-basics.md) (due Feb-01, open till Feb-17)
+    + [Getting started with R and RStudio](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab01-R-basics.md) (due Feb-01, open till Feb-17)
 - :newspaper: __Misc__:
     + [Introduction to R Markdown](http://rmarkdown.rstudio.com/lesson-1.html) (by RStudio)
 - :bulb: __Cheat sheet__: 
@@ -82,7 +82,7 @@ the pace of the course.
     + [Data Frames (1)](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-10-data-frames1.pdf)
     + [Data Frames (2)](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-11-data-frames2.pdf)
 - :book: __Reading__:
-    + [Intro to vectors](../tutorials/03-intro-to-vectors.md) (tutorial)
+    + [Intro to vectors](https://github.com/ucb-stat133/stat133-tutorials/blob/master/03-intro-to-vectors.md) (tutorial)
 - :microscope: __Lab__:
     + [Getting started with vectors and factors](../labs/lab02-vector-basics.md) (due Feb-08, open till Feb-17)
 - :newspaper: __Misc__:
