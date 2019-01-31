@@ -108,7 +108,7 @@ the pace of the course.
     + ["dplyr" tutorial slides](../slides/16-dplyr-tutorial.pdf) (by Hadley Wickham)
     + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
 - :microscope: __Lab__:
-    + [Getting started with dplyr and ggplot2](../labs/lab05-dplyr-ggplot-basics.md) (due Mar-01)
+    + [Getting started with dplyr and ggplot2](../labs/lab05-dplyr-ggplot-basics.md) (due Feb-17)
 - :newspaper: __Misc__:
     + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
     + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
@@ -132,7 +132,7 @@ the pace of the course.
 - :book: __Reading__:
     + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
 - :microscope: __Lab__:
-    + [More data wrangling, and exporting outputs](../labs/lab06-more-data-wrangling.md) (due Oct-06)
+    + [More data wrangling, and exporting outputs](../labs/lab06-more-data-wrangling.md) (due Feb-06)
 - :newspaper: __Misc__:
     + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
@@ -158,7 +158,7 @@ the pace of the course.
     + [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) lessons 1-5 (by Ryan Chadwick)
     + [The Unix Shell](http://swcarpentry.github.io/shell-novice/) lessons 1-3 (by Software Carpentry)
 - :microscope: __Lab__:
-    + [Command Line Basics](../labs/lab03-command-line-basics.md) (due Feb-15, open till Feb-17)
+    + [Command Line Basics](../labs/lab03-command-line-basics.md) (due Feb-15, open till Mar-01)
 - :newspaper: __Misc__:
     + [Linux Command Line tutorial](https://www.guru99.com/terminal-file-manager.html) (by Guru99)
 - :bulb: __Cheat sheet__:
@@ -183,7 +183,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + Read sections 4 to 9 in Part I [Installation](http://happygitwithr.com/installation-pain.html) (_Happy Git and GitHub for the useR_ by Jenny Bryan et al.)
     + [Basic manipulation of Data Frames](../slides/14-data-frame-basics.pdf) (slides)
 - :microscope: __Lab__:
-    + [Git Basics](../labs/lab04-git-basics.md) (due Feb-22)
+    + [Git Basics](../labs/lab04-git-basics.md) (due Mar-08)
     + [Get your Github Classroom repo](../labs/lab04-github-classroom.pdf)
 - :newspaper: __Misc__:
     + [Data Import](http://r4ds.had.co.nz/data-import.html) (_R for Data Science_ by Grolemund and Wickham)
