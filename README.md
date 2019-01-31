@@ -96,9 +96,57 @@ the pace of the course.
 -----
 
 
-## 3. Housekeeping: Filesystem and Bash Commands
+## 3. Transforming and Visualizing Tabular Data
 
 - :card_index: __Dates__: Feb 11-15
+- :paperclip: __Topics__: Because data tables are so ubiquitous, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. Likewise, we begin a comprehensive discussion on concepts for data visualization.
+- :file_folder: __Notes__:
+    + [Datavis: Introduction](../slides/17-data-vis1.pdf) (slides)
+    + [Datavis: Encoding Data in Graphs](../slides/18-data-vis2.pdf) (slides)
+    + [Datavis: The Visual System](../slides/19-data-vis3.pdf) (slides)
+- :book: __Reading__:
+    + ["dplyr" tutorial slides](../slides/16-dplyr-tutorial.pdf) (by Hadley Wickham)
+    + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
+- :microscope: __Lab__:
+    + [Getting started with dplyr and ggplot2](../labs/lab05-dplyr-ggplot-basics.md) (due Mar-01)
+- :newspaper: __Misc__:
+    + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
+    + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
+- :bulb: __Cheat sheet__:
+    + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
+    + [Data visualization with ggplot2](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//ggplot2-cheatsheet-2.1.pdf)
+- :dart: __WARM-UP 3__:
+    + TBA (due Feb-17)
+
+
+-----
+
+
+## 4. More Visualization
+
+- :card_index: __Dates__: Feb 18-22 _(Holiday Feb-18)_
+- :paperclip: __Topics__: We continue reviewing more concepts of data visualization. 
+- :file_folder: __Notes__:
+    + [Datavis: Using Color](../slides/20-data-vis4.pdf) (slides)
+    + [Datavis: Effective Charts](../slides/21-data-vis5.pdf) (slides)
+- :book: __Reading__:
+    + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
+- :microscope: __Lab__:
+    + [More data wrangling, and exporting outputs](../labs/lab06-more-data-wrangling.md) (due Oct-06)
+- :newspaper: __Misc__:
+    + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham) (by Hadley Wickham)
+- :bulb: __Cheat sheet__:
+    + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
+- :dart: __WARM-UP 4__:
+    + TBA (due Feb-24)
+
+
+-----
+
+
+## 5. Housekeeping: Filesystem and Bash Commands
+
+- :card_index: __Dates__: Feb 25-Mar 01
 - :paperclip: __Topics__: Data Analysis Projects (DAPs) are made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands. At the practical level, you will have the chance to practice some data manipulation operations on data frames.
 - :file_folder: __Notes__:
     + [Filesystem Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-12-filesystem-basics.pdf)
@@ -114,17 +162,16 @@ the pace of the course.
 - :newspaper: __Misc__:
     + [Linux Command Line tutorial](https://www.guru99.com/terminal-file-manager.html) (by Guru99)
 - :bulb: __Cheat sheet__:
-    + [command line cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//command-line-cheatsheet.pdf)
-- :dart: __WARM-UP 3__:
-    + TBA (due Feb-17)
+    + [command line cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//command-line-cheatsheet.pdf)- :dart: __WORK-OUT 1__:
+    + TBA (due Mar-10)
 
 
 -----
 
 
-## 4. Housekeeping: Version Control with Git and GitHub
+## 6. Housekeeping: Version Control with Git and GitHub
 
-- :card_index: __Dates__: Feb 18-22 _(Holiday Feb-18)_
+- :card_index: __Dates__: Mar 04-08
 - :paperclip: __Topics__: We continue talking about filestructure topics, and we introduce basic notions of version control systems (VCS) using Git, and the companion hosting platform GitHub.
 On the Data side, we begin our discussion about Tables: the most common form in which data is stored, handled, and manipulated. Consequently, we need to talk about the typical storage formats of tabular data, and the relationship between tables and R data frames.
 - :file_folder: __Notes__:
@@ -144,54 +191,6 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Data import cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-import-cheatsheet.pdf)
     + [git cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//git-cheatsheet.pdf)
-- :dart: __WARM-UP 4__:
-    + TBA (due Feb-24)
-
-
------
-
-
-## 5. Transforming and Visualizing Tabular Data
-
-- :card_index: __Dates__: Feb 25-Mar 01
-- :paperclip: __Topics__: Because data tables are so ubiquitous, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. Likewise, we begin a comprehensive discussion on concepts for data visualization.
-- :file_folder: __Notes__:
-    + [Datavis: Introduction](../slides/17-data-vis1.pdf) (slides)
-    + [Datavis: Encoding Data in Graphs](../slides/18-data-vis2.pdf) (slides)
-    + [Datavis: The Visual System](../slides/19-data-vis3.pdf) (slides)
-- :book: __Reading__:
-    + ["dplyr" tutorial slides](../slides/16-dplyr-tutorial.pdf) (by Hadley Wickham)
-    + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
-- :microscope: __Lab__:
-    + [Getting started with dplyr and ggplot2](../labs/lab05-dplyr-ggplot-basics.md) (due Mar-01)
-- :newspaper: __Misc__:
-    + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
-    + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
-- :bulb: __Cheat sheet__:
-    + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
-    + [Data visualization with ggplot2](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//ggplot2-cheatsheet-2.1.pdf)
-- :dart: __WORK-OUT 1__:
-    + TBA (due Mar-10)
-
-
------
-
-
-## 6. More Visualization
-
-- :card_index: __Dates__: Mar 04-08
-- :paperclip: __Topics__: We continue reviewing more concepts of data visualization. 
-- :file_folder: __Notes__:
-    + [Datavis: Using Color](../slides/20-data-vis4.pdf) (slides)
-    + [Datavis: Effective Charts](../slides/21-data-vis5.pdf) (slides)
-- :book: __Reading__:
-    + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
-- :microscope: __Lab__:
-    + [More data wrangling, and exporting outputs](../labs/lab06-more-data-wrangling.md) (due Oct-06)
-- :newspaper: __Misc__:
-    + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham) (by Hadley Wickham)
-- :bulb: __Cheat sheet__:
-    + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
 - :mortar_board: __MIDTERM 1__: Friday Mar-08
 
 
