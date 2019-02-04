@@ -90,7 +90,7 @@ the pace of the course.
 - :bulb: __Cheat sheet__: 
     + [Base R](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//base-r-cheatsheet.pdf)
 - :dart: __WARM-UP 2__:
-    + TBA (due Feb-10, open till Feb-17)
+    + [Basic Data Objects](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/warmup02.pdf) (due Feb-10, open till Feb-17)
 
 
 -----
