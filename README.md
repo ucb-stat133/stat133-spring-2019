@@ -84,7 +84,7 @@ the pace of the course.
 - :book: __Reading__:
     + [Intro to vectors](https://github.com/ucb-stat133/stat133-tutorials/blob/master/03-intro-to-vectors.md) (tutorial)
 - :microscope: __Lab__:
-    + [Getting started with vectors and factors](../labs/lab02-vector-basics.md) (due Feb-08, open till Feb-17)
+    + [Getting started with vectors and factors]https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab02-vector-basics.md) (due Feb-08, open till Feb-17)
 - :newspaper: __Misc__:
     + [chapter 20: Vectors](http://r4ds.had.co.nz/vectors.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__: 
