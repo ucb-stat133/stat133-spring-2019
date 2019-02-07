@@ -9,7 +9,7 @@
 
 
 | Name               | Room      | Day/Time              | Email |
-|:-------------------|:----------|:----------------------|
+|:-------------------|:----------|:----------------------|--------|
 | Gaston Sanchez     | 309 Evans | MW 4-5:30pm in 309 Evans | gasigiri [at] berkeley.edu |
 | Miyabi Ishihara    | 432 Evans | M 9-11am, Tu 9-10am, Fr 1-2pm | miyabi_ishihara [at] berkeley.edu |
 | Colin Kou          | 432 Evans | M 10-12, Tu 11-12pm, Tu 3-4pm | colinkou [at] berkeley.edu |
