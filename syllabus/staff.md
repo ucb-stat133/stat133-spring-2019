@@ -14,8 +14,8 @@
 | Miyabi Ishihara    | 432 Evans | M 9-11am, Tu 9-10am, Fr 1-2pm | miyabi_ishihara [at] berkeley.edu |
 | Colin Kou          | 432 Evans | M 10-12, Tu 11-12pm, Tu 3-4pm | colinkou [at] berkeley.edu |
 | Shuni Li           | 432 Evans | M 1-3pm, Tu 9:30-10:30, Th 9:30-10:30 | shuni_li [at] berkeley.edu |
-| Dodo Qian          | 432 Evans | W 1-3pm, W 4-6pm | zishen0823 [at] berkeley.com |
-| Yulun Wu           | 432 Evans | W 5-6pm, Th 2-5pm | yulun_wu [at] berkeley.com |
+| Dodo Qian          | 432 Evans | W 1-3pm, W 4-6pm | zishen0823 [at] berkeley.edu |
+| Yulun Wu           | 432 Evans | W 5-6pm, Th 2-5pm | yulun_wu [at] berkeley.edu |
 
 
 - __Lab Sections:__
