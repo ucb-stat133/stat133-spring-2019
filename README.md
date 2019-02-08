@@ -53,8 +53,7 @@ the pace of the course.
     + [The Starting Point: Research Questions](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-03-research-question.pdf)
     + [The Three Views of Data](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-04-data-perspectives.pdf)
     + Be the Boss of your Data (talk and chalk)
-    + [Data Types](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-06-data-types.pdf)
-    + [Data Types and Vectors](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-07-vectors.pdf)
+    + [Data Types](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-06-data-types.pdf) and [Vectors](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-07-vectors.pdf)
 - :book: __Reading__:
     + [First contact with R](https://github.com/ucb-stat133/stat133-tutorials/blob/master/01-intro-to-R.md) (tutorial)
     + [Intro to Rmd files](https://github.com/ucb-stat133/stat133-tutorials/blob/master/02-intro-to-Rmd-files.md) (tutorial)
@@ -79,6 +78,7 @@ the pace of the course.
 - :file_folder: __Notes__:
     + [Arrays and Factors](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-08-arrays-factors.pdf) and [Lists](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-09-lists.pdf)
     + Data Frames [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-10-data-frames1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-11-data-frames2.pdf)
+    + [Data Tables](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-23-data-tables.pdf) (introduction) and [Spreadsheets](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-data-spreadsheets.pdf)
 - :book: __Reading__:
     + [Intro to vectors](https://github.com/ucb-stat133/stat133-tutorials/blob/master/03-intro-to-vectors.md) (tutorial)
     + [Intro to Data Technologies](https://www.stat.auckland.ac.nz/~paul/ItDT/itdt-2010-11-01.pdf) (preface, chapter 1, and chapter 5) (by Paul Murrell)
