@@ -77,12 +77,11 @@ the pace of the course.
 - :card_index: __Dates__: Feb 04-08
 - :paperclip: __Topics__: In this week you'll keep learning more about R data structures like arrays and lists. More specifically, we'll focus on fundamental concepts like atomicity, vectorization, recycling, and subsetting. And given that we are studying vectors and its cousins, we'll briefly review the traditional _base_ graphics approach that is based on R vectors.
 - :file_folder: __Notes__:
-    + [Arrays and Factors](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-08-arrays-factors.pdf)
-    + [Lists](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-09-lists.pdf)
-    + [Data Frames (1)](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-10-data-frames1.pdf)
-    + [Data Frames (2)](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-11-data-frames2.pdf)
+    + [Arrays and Factors](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-08-arrays-factors.pdf) and [Lists](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-09-lists.pdf)
+    + Data Frames [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-10-data-frames1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-11-data-frames2.pdf)
 - :book: __Reading__:
     + [Intro to vectors](https://github.com/ucb-stat133/stat133-tutorials/blob/master/03-intro-to-vectors.md) (tutorial)
+    + [Intro to Data Technologies](https://www.stat.auckland.ac.nz/~paul/ItDT/itdt-2010-11-01.pdf) (preface, chapter 1, and chapter 5) (by Paul Murrell)
 - :microscope: __Lab__:
     + [Getting started with vectors and factors](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab02-vector-basics.md) (due Feb-08, open till Feb-17)
 - :newspaper: __Misc__:
@@ -110,6 +109,7 @@ the pace of the course.
 - :microscope: __Lab__:
     + [Getting started with dplyr and ggplot2](../labs/lab05-dplyr-ggplot-basics.md) (due Feb-17)
 - :newspaper: __Misc__:
+    + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
     + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
     + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
@@ -187,7 +187,6 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Get your Github Classroom repo](../labs/lab04-github-classroom.pdf)
 - :newspaper: __Misc__:
     + [Data Import](http://r4ds.had.co.nz/data-import.html) (_R for Data Science_ by Grolemund and Wickham)
-    + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
 - :bulb: __Cheat sheet__:
     + [Data import cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-import-cheatsheet.pdf)
     + [git cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//git-cheatsheet.pdf)
