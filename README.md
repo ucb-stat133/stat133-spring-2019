@@ -98,7 +98,7 @@ the pace of the course.
 ## 3. Transforming and Visualizing Tabular Data
 
 - :card_index: __Dates__: Feb 11-15
-- :paperclip: __Topics__: Because data tables are so ubiquitous, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. Likewise, we begin a comprehensive discussion on concepts for data visualization.
+- :paperclip: __Topics__: Because data tables are so ubiquitous, you will have the chance to practice some data manipulation operations on data frames. Also, we'll discuss some considerations when importing tables (in R). Likewise, we begin a comprehensive discussion on concepts for data visualization.
 - :file_folder: __Notes__:
     + Importing tables [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-importing-tables1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-25-importing-tables2.pdf)
     + [Datavis: Introduction](../slides/17-data-vis1.pdf)
@@ -126,7 +126,7 @@ the pace of the course.
 ## 4. More Visualization
 
 - :card_index: __Dates__: Feb 18-22 _(Holiday Feb-18)_
-- :paperclip: __Topics__: We continue reviewing more concepts of data visualization. 
+- :paperclip: __Topics__: We continue reviewing more concepts of data visualization. At the practical level, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. 
 - :file_folder: __Notes__:
     + [Datavis: Using Color](../slides/20-data-vis4.pdf) (slides)
     + [Datavis: Effective Charts](../slides/21-data-vis5.pdf) (slides)
@@ -148,7 +148,7 @@ the pace of the course.
 ## 5. Housekeeping: Filesystem and Bash Commands
 
 - :card_index: __Dates__: Feb 25-Mar 01
-- :paperclip: __Topics__: Data Analysis Projects (DAPs) are made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands. At the practical level, you will have the chance to practice some data manipulation operations on data frames.
+- :paperclip: __Topics__: Data Analysis Projects (DAPs) are made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands.
 - :file_folder: __Notes__:
     + [Filesystem Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-12-filesystem-basics.pdf)
     + [File Paths](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-13-file-paths.pdf)
