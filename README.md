@@ -116,7 +116,7 @@ the pace of the course.
     + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
     + [Data visualization with ggplot2](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//ggplot2-cheatsheet-2.1.pdf)
 - :dart: __WARM-UP 3__:
-    + TBA (due Feb-17)
+    + [Basic Data Manipulation](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/warmup03.pdf) (due Feb-17)
 
 
 -----
