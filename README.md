@@ -100,9 +100,10 @@ the pace of the course.
 - :card_index: __Dates__: Feb 11-15
 - :paperclip: __Topics__: Because data tables are so ubiquitous, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. Likewise, we begin a comprehensive discussion on concepts for data visualization.
 - :file_folder: __Notes__:
-    + [Datavis: Introduction](../slides/17-data-vis1.pdf) (slides)
-    + [Datavis: Encoding Data in Graphs](../slides/18-data-vis2.pdf) (slides)
-    + [Datavis: The Visual System](../slides/19-data-vis3.pdf) (slides)
+    + Importing tables [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-importing-tables1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-25-importing-tables2.pdf)
+    + [Datavis: Introduction](../slides/17-data-vis1.pdf)
+    + [Datavis: Encoding Data in Graphs](../slides/18-data-vis2.pdf)
+    + [Datavis: The Visual System](../slides/19-data-vis3.pdf)
 - :book: __Reading__:
     + ["dplyr" tutorial slides](../slides/16-dplyr-tutorial.pdf) (by Hadley Wickham)
     + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
