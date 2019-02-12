@@ -108,7 +108,7 @@ the pace of the course.
     + ["dplyr" tutorial slides](../slides/16-dplyr-tutorial.pdf) (by Hadley Wickham)
     + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
 - :microscope: __Lab__:
-    + [Getting started with dplyr and ggplot2](../labs/lab05-dplyr-ggplot-basics.md) (due Feb-17)
+    + [Data Frame Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab03-data-tables.md) (due Feb-17)
 - :newspaper: __Misc__:
     + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
     + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
