@@ -105,8 +105,7 @@ the pace of the course.
     + [Datavis: Encoding Data in Graphs](../slides/18-data-vis2.pdf)
     + [Datavis: The Visual System](../slides/19-data-vis3.pdf)
 - :book: __Reading__:
-    + ["dplyr" tutorial slides](../slides/16-dplyr-tutorial.pdf) (by Hadley Wickham)
-    + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
+    + ["dplyr" tutorial slides](https://github.com/ucb-stat133/stat133-slides/blob/master/dplyr-wickham.pdf) (by Hadley Wickham)
 - :microscope: __Lab__:
     + [Data Frame Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab03-data-tables.md) (due Feb-17)
 - :newspaper: __Misc__:
