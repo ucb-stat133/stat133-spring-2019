@@ -101,9 +101,9 @@ the pace of the course.
 - :paperclip: __Topics__: Because data tables are so ubiquitous, you will have the chance to practice some data manipulation operations on data frames. Also, we'll discuss some considerations when importing tables (in R). Likewise, we begin a comprehensive discussion on concepts for data visualization.
 - :file_folder: __Notes__:
     + Importing tables [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-importing-tables1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-25-importing-tables2.pdf)
-    + [Datavis: Introduction](../slides/17-data-vis1.pdf)
-    + [Datavis: Encoding Data in Graphs](../slides/18-data-vis2.pdf)
-    + [Datavis: The Visual System](../slides/19-data-vis3.pdf)
+    + [Datavis: Classic Examples](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-26-datavis-classic-examples.pdf) and [Introduction](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-27-datavis-intro.pdf)
+    + Datavis: Encoding Data in Graphs
+    + Datavis: The Visual System
 - :book: __Reading__:
     + ["dplyr" tutorial slides](https://github.com/ucb-stat133/stat133-slides/blob/master/dplyr-wickham.pdf) (by Hadley Wickham)
 - :microscope: __Lab__:
