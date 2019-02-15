@@ -102,7 +102,7 @@ the pace of the course.
 - :file_folder: __Notes__:
     + Importing tables [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-importing-tables1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-25-importing-tables2.pdf)
     + [Datavis: Classic Examples](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-26-datavis-classic-examples.pdf) and [Introduction](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-27-datavis-intro.pdf)
-    + Datavis: Encoding Data in Graphs
+    + [Datavis: Encoding Data in Graphs](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-28-encoding-data-in-graphs.pdf)
     + Datavis: The Visual System
 - :book: __Reading__:
     + ["dplyr" tutorial slides](https://github.com/ucb-stat133/stat133-slides/blob/master/dplyr-wickham.pdf) (by Hadley Wickham)
