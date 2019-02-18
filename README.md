@@ -138,7 +138,7 @@ the pace of the course.
 - :bulb: __Cheat sheet__:
     + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
 - :dart: __WARM-UP 4__:
-    + TBA (due Feb-24)
+    + TBA (due Feb-27)
 
 
 -----
@@ -163,7 +163,7 @@ the pace of the course.
     + [Linux Command Line tutorial](https://www.guru99.com/terminal-file-manager.html) (by Guru99)
 - :bulb: __Cheat sheet__:
     + [command line cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//command-line-cheatsheet.pdf)- :dart: __WORK-OUT 1__:
-    + TBA (due Mar-10)
+    + TBA (due Mar-13)
 
 
 -----
@@ -210,7 +210,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :newspaper: __Misc__: 
     + [chapter 19: Functions](http://r4ds.had.co.nz/functions.html) (_R for Data Science_ by Grolemund and Wickham)
 - :dart: __WARM-UP 5__:
-    + TBA (due Mar-17)
+    + TBA (due Mar-20)
 
 
 -----
@@ -230,7 +230,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :newspaper: __Misc__:
     + [chapter 21: Iteration](http://r4ds.had.co.nz/iteration.html) (_R for Data Science_ by Grolemund and Wickham)
 - :dart: __WARM-UP 6__:
-    + TBA (due Mar-24)
+    + TBA (due Apr-03)
 
 
 -----
@@ -262,7 +262,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Stringr cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//stringr-cheatsheet.pdf)
 - :dart: __WORK-OUT 2__:
-    + TBA (due Apr-14)
+    + TBA (due Apr-17)
 
 
 -----
@@ -307,7 +307,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [shiny cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//shiny-cheatsheet.pdf)
 - :dart: __WARM-UP 7__:
-    + TBA (due Apr-21)
+    + TBA (due Apr-24)
 
 
 -----
