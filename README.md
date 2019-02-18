@@ -162,7 +162,8 @@ the pace of the course.
 - :newspaper: __Misc__:
     + [Linux Command Line tutorial](https://www.guru99.com/terminal-file-manager.html) (by Guru99)
 - :bulb: __Cheat sheet__:
-    + [command line cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//command-line-cheatsheet.pdf)- :dart: __WORK-OUT 1__:
+    + [command line cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//command-line-cheatsheet.pdf)
+- :dart: __WORK-OUT 1__:
     + TBA (due Mar-13)
 
 
