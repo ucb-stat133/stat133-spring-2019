@@ -132,7 +132,7 @@ the pace of the course.
 - :book: __Reading__:
     + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
 - :microscope: __Lab__:
-    + [More data wrangling, and exporting outputs](../labs/lab06-more-data-wrangling.md) (due Feb-06)
+    + [Data Frame Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab04-dplyr-ggplot-basics.md) (due Feb-22)
 - :newspaper: __Misc__:
     + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
