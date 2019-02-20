@@ -103,7 +103,7 @@ the pace of the course.
     + Importing tables [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-importing-tables1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-25-importing-tables2.pdf)
     + [Datavis: Classic Examples](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-26-datavis-classic-examples.pdf) and [Introduction](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-27-datavis-intro.pdf)
     + [Datavis: Encoding Data in Graphs](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-28-encoding-data-in-graphs.pdf)
-    + Datavis: The Visual System
+    + [Datavis: The Visual System](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-30-visual-system.pdf)
 - :book: __Reading__:
     + ["dplyr" tutorial slides](https://github.com/ucb-stat133/stat133-slides/blob/master/dplyr-wickham.pdf) (by Hadley Wickham)
 - :microscope: __Lab__:
@@ -132,7 +132,7 @@ the pace of the course.
 - :book: __Reading__:
     + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
 - :microscope: __Lab__:
-    + [Data Frame Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab04-dplyr-ggplot-basics.md) (due Feb-22)
+    + [Data Wrangling and Graphics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab04-dplyr-ggplot-basics.md) (due Feb-22)
 - :newspaper: __Misc__:
     + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
