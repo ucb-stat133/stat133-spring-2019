@@ -138,7 +138,7 @@ the pace of the course.
 - :bulb: __Cheat sheet__:
     + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
 - :dart: __WARM-UP 4__:
-    + TBA (due Feb-27)
+    + [More Data Wrangling](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/warmup04.pdf) (due Feb-27)
 
 
 -----
