@@ -127,10 +127,10 @@ the pace of the course.
 - :card_index: __Dates__: Feb 18-22 _(Holiday Feb-18)_
 - :paperclip: __Topics__: We continue reviewing more concepts of data visualization. At the practical level, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. 
 - :file_folder: __Notes__:
-    + [Datavis: Using Color](../slides/20-data-vis4.pdf) (slides)
-    + [Datavis: Effective Charts](../slides/21-data-vis5.pdf) (slides)
+    + [Datavis: Using Color](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-32-using-color.pdf)
+    + [Datavis: Effective Charts](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-33-effective-charts.pdf)
 - :book: __Reading__:
-    + ["ggplot2" lecture](../slides/22-ggplot-lecture.pdf) (by Karthik Ram)
+    + ["ggplot2" lecture](https://github.com/ucb-stat133/stat133-slides/blob/master/ggplot-karthik.pdf) (by Karthik Ram)
 - :microscope: __Lab__:
     + [Data Wrangling and Graphics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab04-dplyr-ggplot-basics.md) (due Feb-22)
 - :newspaper: __Misc__:
