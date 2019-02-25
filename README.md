@@ -134,7 +134,7 @@ the pace of the course.
 - :microscope: __Lab__:
     + [Data Wrangling and Graphics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab04-dplyr-ggplot-basics.md) (due Feb-22)
 - :newspaper: __Misc__:
-    + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham) (by Hadley Wickham)
+    + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham.pdf) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
     + [Data transformation cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//data-transformation-cheatsheet.pdf)
 - :dart: __WARM-UP 4__:
