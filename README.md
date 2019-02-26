@@ -158,7 +158,7 @@ the pace of the course.
     + [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) lessons 1-5 (by Ryan Chadwick)
     + [The Unix Shell](http://swcarpentry.github.io/shell-novice/) lessons 1-3 (by Software Carpentry)
 - :microscope: __Lab__:
-    + [Command Line Basics](../labs/lab03-command-line-basics.md) (due Feb-15, open till Mar-01)
+    + [Command Line Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab05-command-line-basics.md) (due Mar-01)
 - :newspaper: __Misc__:
     + [Linux Command Line tutorial](https://www.guru99.com/terminal-file-manager.html) (by Guru99)
 - :bulb: __Cheat sheet__:
