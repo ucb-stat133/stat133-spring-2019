@@ -105,11 +105,11 @@ the pace of the course.
     + [Datavis: Encoding Data in Graphs](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-28-encoding-data-in-graphs.pdf)
     + [Datavis: The Visual System](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-30-visual-system.pdf)
 - :book: __Reading__:
+    + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
     + ["dplyr" tutorial slides](https://github.com/ucb-stat133/stat133-slides/blob/master/dplyr-wickham.pdf) (by Hadley Wickham)
 - :microscope: __Lab__:
     + [Data Frame Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab03-data-tables.md) (due Feb-17)
 - :newspaper: __Misc__:
-    + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
     + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
     + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
