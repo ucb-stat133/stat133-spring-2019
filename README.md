@@ -164,7 +164,7 @@ the pace of the course.
 - :bulb: __Cheat sheet__:
     + [command line cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//command-line-cheatsheet.pdf)
 - :dart: __WORK-OUT 1__:
-    + TBA (due Mar-13)
+    + [GSW Shot Charts](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/workout01.pdf) (due Mar-13)
 
 
 -----
