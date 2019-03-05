@@ -181,8 +181,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :book: __Reading__:
     + Read sections 4 to 9 in Part I [Installation](http://happygitwithr.com/installation-pain.html) (_Happy Git and GitHub for the useR_ by Jenny Bryan et al.)
 - :microscope: __Lab__:
-    + [Git Basics](../labs/lab04-git-basics.md) (due Mar-08)
-    + [Get your Github Classroom repo](../labs/lab04-github-classroom.pdf)
+    + [Git Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab06-git-basics.md) (due Mar-08)
 - :newspaper: __Misc__:
     + [Data Import](http://r4ds.had.co.nz/data-import.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
