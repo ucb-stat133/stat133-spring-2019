@@ -199,9 +199,9 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :card_index: __Dates__: Mar 11-15
 - :paperclip: __Topics__: You don’t need to be an expert programmer to be a data scientist, but learning more about programming allows you to automate common tasks, and solve new problems with greater ease. We'll discuss how to write basic functions, the notion of R expressions, and an introduction to conditionals. 
 - :file_folder: __Notes__:
-    + [Creating functions](../tutorials/06-creating-functions.md) (tutorial)
-    + [Introduction to functions](../tutorials/07-intro-to-functions.md) (tutorial)
-    + [Introduction to R expressions and conditionals](../tutorials/08-intro-to-expressions-conditionals.md) (tutorial)
+    + [Creating functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/06-creating-functions.md) (tutorial)
+    + [Introduction to functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/07-intro-to-functions.md) (tutorial)
+    + [Introduction to R expressions and conditionals](https://github.com/ucb-stat133/stat133-tutorials/blob/master/08-intro-to-expressions-conditionals.md) (tutorial)
 - :microscope: __Lab__:
     + [Getting started with functions and conditionals](../labs/lab07-simple-functions.md) (due Mar-15)
 - :newspaper: __Misc__: 
@@ -218,8 +218,8 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :card_index: __Dates__: Mar 18-22
 - :paperclip: __Topics__: In addition to writing functions to reduce duplication in your code, you also need to learn about iteration, which helps you when you need to do the same operation several times. Namely, we review control flow structures such as `for` loops, `while` loops, `repeat` loops, and the `apply` family functions.
 - :file_folder: __Notes__:
-    + [Introduction to loops](../tutorials/09-intro-to-loops.md) (tutorial)
-    + [More about functions](../tutorials/10-more-functions.md) (tutorial)
+    + [Introduction to loops](https://github.com/ucb-stat133/stat133-tutorials/blob/master/09-intro-to-loops.md) (tutorial)
+    + [More about functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/10-more-functions.md) (tutorial)
     + [Functions](http://adv-r.had.co.nz/Functions.html) (_Advanced R_ by H. Wickham)
     + [Environments](http://adv-r.had.co.nz/Environments.html) (_Advanced R_ by H. Wickham)
 - :microscope: __Lab__: 
