@@ -203,7 +203,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Introduction to functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/07-intro-to-functions.md) (tutorial)
     + [Introduction to R expressions and conditionals](https://github.com/ucb-stat133/stat133-tutorials/blob/master/08-intro-to-expressions-conditionals.md) (tutorial)
 - :microscope: __Lab__:
-    + [Getting started with functions and conditionals](../labs/lab07-simple-functions.md) (due Mar-15)
+    + [Getting started with functions and conditionals](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab07-simple-functions.md) (due Mar-15)
 - :newspaper: __Misc__: 
     + [chapter 19: Functions](http://r4ds.had.co.nz/functions.html) (_R for Data Science_ by Grolemund and Wickham)
 - :dart: __WARM-UP 5__:
