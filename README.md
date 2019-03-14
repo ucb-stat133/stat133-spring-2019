@@ -207,7 +207,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :newspaper: __Misc__: 
     + [chapter 19: Functions](http://r4ds.had.co.nz/functions.html) (_R for Data Science_ by Grolemund and Wickham)
 - :dart: __WARM-UP 5__:
-    + TBA (due Mar-20)
+    + [Functions](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/warmup05.pdf) (due Mar-20)
 
 
 -----
