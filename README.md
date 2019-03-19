@@ -223,7 +223,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Functions](http://adv-r.had.co.nz/Functions.html) (_Advanced R_ by H. Wickham)
     + [Environments](http://adv-r.had.co.nz/Environments.html) (_Advanced R_ by H. Wickham)
 - :microscope: __Lab__: 
-    + [Getting started with loops](../labs/lab08-simple-loops.md) (due Mar-22)
+    + [Getting started with loops](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab08-simple-loops.md) (due Mar-22)
 - :newspaper: __Misc__:
     + [chapter 21: Iteration](http://r4ds.had.co.nz/iteration.html) (_R for Data Science_ by Grolemund and Wickham)
 - :dart: __WARM-UP 6__:
