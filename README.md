@@ -247,7 +247,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :card_index: __Dates__: Apr 01-05
 - :paperclip: __Topics__: At its heart, computing involves working with numbers. However, a considerable amount of information and data is in the form of text. Therefore, you also need to learn about character strings, and how to perform basic manipulation of strings. In parallel, we'll keep working on writing functions, especially focusing on testing functions.
 - :file_folder: __Notes__:
-    + [Intro to testing functions](../tutorials/11-testing-functions.md) (tutorial)
+    + [Intro to testing functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/11-testing-functions.md) (tutorial)
     + [Character strings in R](http://www.gastonsanchez.com/r4strings/chars.html) (_r4strings_ by Sanchez)
     + [Basic string manipulations](http://www.gastonsanchez.com/r4strings/manip.html) (_r4strings_ by Sanchez)
 - :book: __Reading__:
