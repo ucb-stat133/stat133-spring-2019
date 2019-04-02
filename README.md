@@ -242,18 +242,19 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 10. Manipulating Character Strings and Testing Functions
+## 9. Testing Functions and Introduction to Shiny Apps
 
 - :card_index: __Dates__: Apr 01-05
-- :paperclip: __Topics__: At its heart, computing involves working with numbers. However, a considerable amount of information and data is in the form of text. Therefore, you also need to learn about character strings, and how to perform basic manipulation of strings. In parallel, we'll keep working on writing functions, especially focusing on testing functions.
+- :paperclip: __Topics__: We begin with an introduction to the package `"testthat"` which provides a nice framework for testing functions. Jointly, we will discuss Shiny apps which provide an interesting companion to R, making it quick and simple to deliver interactive analysis and graphics on any web browser. In lab, you'll learn how to perform basic manipulation of strings. 
 - :file_folder: __Notes__:
     + [Intro to testing functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/11-testing-functions.md) (tutorial)
-    + [Character strings in R](http://www.gastonsanchez.com/r4strings/chars.html) (_r4strings_ by Sanchez)
-    + [Basic string manipulations](http://www.gastonsanchez.com/r4strings/manip.html) (_r4strings_ by Sanchez)
+    + [shiny tutorial](../23-slides/shiny-tutorial.pdf) (by Grolemund)    
 - :book: __Reading__:
     + [testthat: Get started with testing](https://github.com/ucb-stat133/stat133-misc/blob/master/testthat-wickham.pdf) (by Wickham)
+    + [Character strings in R](http://www.gastonsanchez.com/r4strings/chars.html) (_r4strings_ by Sanchez)
+    + [Basic string manipulations](http://www.gastonsanchez.com/r4strings/manip.html) (_r4strings_ by Sanchez)
 - :microscope: __Lab__: 
-    + [Getting started with strings](../labs/lab09-tests-strings-basics.md) (due Apr-05)
+    + [Getting started with strings](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab09-tests-strings-basics.md) (due Apr-05)
 - :newspaper: __Misc__:
     + [chapter 14: Strings](http://r4ds.had.co.nz/strings.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
@@ -265,12 +266,35 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 11. Regular Expressions
+## 10. More Shiny Apps and Introduction to Regular Expressions
 
 - :card_index: __Dates__: Apr 08-12
-- :paperclip:  __Topics__: To unleash the power of strings manipulation, we need to take things to the next level and learn about Regular Expressions. Namely, Regular expressions are a tool that allows us to describe a certain amount of text called "patterns". We'll describe the basic concepts of regex and the common operations to match text patterns.
+- :paperclip:  __Topics__: Random numbers have many applications in science and computer programming, especially when there are significant uncertainties in a phenomenon of interest. In this part of the course we'll look at some basic problems involving working with random numbers and creating simulations. Additionally, we continue the discussion about character strings with a first contact to Regular Expressions. 
 - :file_folder: __Notes__:
+    + [Introduction to random numbers](../tutorials/14-intro-to-random-numbers.md)
+    + [Coin toss shiny app](../apps/coin-toss)
     + [Regexpal](http://regexpal.com.s3-website-us-east-1.amazonaws.com/) tester tool.
+- :book: __Reading__:
+    + [Part 1 - How to build a Shiny app](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=0m0s) (video)
+- :microscope: __Lab__:
+    + [Random numbers and simulations](../labs/lab11-random-simulations.md) (due Apr-12)
+- :newspaper: __Misc__:
+    + [Part 2 - How to customize reactions](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=42m2s) (video)
+    + [Part 3 - How to customize appearance](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=1h32m41s) (video)
+- :bulb: __Cheat sheet__:
+    + [shiny cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//shiny-cheatsheet.pdf)
+- :dart: __WORK-OUT 2__:
+    + _Keep working on your workout02 assignment._
+
+
+-----
+
+
+## 11. More Regular Expressions
+
+- :card_index: __Dates__: Apr 15-19
+- :paperclip:  __Topics__: At its heart, computing involves working with numbers. However, a considerable amount of information and data is in the form of text. To unleash the power of strings manipulation, we need to take things to the next level and learn about Regular Expressions. Namely, Regular expressions are a tool that allows us to describe a certain amount of text called "patterns". We'll describe the basic concepts of regex and the common operations to match text patterns.
+- :file_folder: __Notes__:
     + [Long Jump World Record example](../tutorials/12-strings-example.md)
     + [Log file example](../tutorials/13-more-regex.md)
 - :book: __Reading__:
@@ -279,38 +303,14 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Regular Expressions](../labs/lab10-regex-basics.md) (due Apr-12)
 - :bulb: __Cheat sheet__:
     + [Regular Expressions cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//regular-expressions-cheatsheet.pdf)
-- :dart: __WORK-OUT 2__:
+- :dart: __WORK-OUT 3__:
     + _Keep working on your workout02 assignment._
 
 
 -----
 
 
-## 12. Random Numbers, Simulations, and Shiny Apps
-
-- :card_index: __Dates__: Apr 15-19
-- :paperclip: __Topics__: Random numbers have many applications in science and computer programming, especially when there are significant uncertainties in a phenomenon of interest. In this part of the course we'll look at some basic problems involving working with random numbers and creating simulations. Jointly, we will briefly discuss Shiny apps to better visualize the results of some simulations. This type of apps are a nice companion to R, making it quick and simple to deliver interactive analysis and graphics on any web browser.
-- :file_folder: __Notes__:
-    + [Introduction to random numbers](../tutorials/14-intro-to-random-numbers.md)
-    + [Coin toss shiny app](../apps/coin-toss)
-    + [shiny tutorial](../23-slides/shiny-tutorial.pdf) (by Grolemund)
-- :book: __Reading__:
-    + [Part 1 - How to build a Shiny app](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=0m0s) (video)
-- :microscope: __Lab__:
-    + [Random numbers and simulations](../labs/lab11-random-simulations.md) (due Apr-19)
-- :newspaper: __Misc__:
-    + [Part 2 - How to customize reactions](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=42m2s) (video)
-    + [Part 3 - How to customize appearance](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=1h32m41s) (video)
-- :bulb: __Cheat sheet__:
-    + [shiny cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//shiny-cheatsheet.pdf)
-- :dart: __WARM-UP 7__:
-    + TBA (due Apr-24)
-
-
------
-
-
-## 13. R packaging (part 1)
+## 12. R packaging (part 1)
 
 - :card_index: __Dates__: Apr 22-26
 - :paperclip: __Topics__: Packages are the fundamental units of reproducible R code. They include reusable functions, the documentation that describes how to use them, and sample data. In this part we'll start describing how to turn your code into an R package.
@@ -331,7 +331,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 14. R Packaging (part 2)
+## 13. R Packaging (part 2)
 
 - :card_index: __Dates__: Apr 29-May 03
 - :paperclip: __Topics__: Creating an R package can seem overwhelming at first. So we'll keep working on the creation of a relatively basic package. This will give you the opportunity to apply most of the concepts seen in the course.
@@ -348,7 +348,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 15. RRR Week and Final Exam
+## 14. RRR Week and Final Exam
 
 - :card_index: __Dates__: May 06-10
 - :paperclip: __Topics__: Prepare for final examination
