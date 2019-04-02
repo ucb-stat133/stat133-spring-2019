@@ -233,7 +233,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## 9. Spring Recess
+## Spring Recess
 
 - :card_index: __Dates__: Mar 25-29
 - :paperclip: __Topics__: _Recharge your batteries_
@@ -248,7 +248,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :paperclip: __Topics__: We begin with an introduction to the package `"testthat"` which provides a nice framework for testing functions. Jointly, we will discuss Shiny apps which provide an interesting companion to R, making it quick and simple to deliver interactive analysis and graphics on any web browser. In lab, you'll learn how to perform basic manipulation of strings. 
 - :file_folder: __Notes__:
     + [Intro to testing functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/11-testing-functions.md) (tutorial)
-    + [shiny tutorial](../23-slides/shiny-tutorial.pdf) (by Grolemund)    
+    + [shiny tutorial](https://github.com/ucb-stat133/stat133-slides/blob/master/shiny-tutorial.pdf) (by Grolemund)    
 - :book: __Reading__:
     + [testthat: Get started with testing](https://github.com/ucb-stat133/stat133-misc/blob/master/testthat-wickham.pdf) (by Wickham)
     + [Character strings in R](http://www.gastonsanchez.com/r4strings/chars.html) (_r4strings_ by Sanchez)
@@ -258,7 +258,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :newspaper: __Misc__:
     + [chapter 14: Strings](http://r4ds.had.co.nz/strings.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
-    + [Stringr cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//stringr-cheatsheet.pdf)
+    + [Stringr cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master/stringr-cheatsheet.pdf)
 - :dart: __WORK-OUT 2__:
     + TBA (due Apr-17)
 
