@@ -260,7 +260,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Stringr cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master/stringr-cheatsheet.pdf)
 - :dart: __WORK-OUT 2__:
-    + TBA (due Apr-17)
+    + [Shiny App](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/workout02.pdf) (due Apr-17)
 
 
 -----
