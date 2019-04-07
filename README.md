@@ -300,7 +300,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :book: __Reading__:
     + [Handling Strings in R](http://www.gastonsanchez.com/r4strings) (by Sanchez)
 - :microscope: __Lab__:
-    + [Regular Expressions](../labs/lab10-regex-basics.md) (due Apr-12)
+    + [Regular Expressions](../labs/lab10-regex-basics.md) (due Apr-19)
 - :bulb: __Cheat sheet__:
     + [Regular Expressions cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//regular-expressions-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__:
