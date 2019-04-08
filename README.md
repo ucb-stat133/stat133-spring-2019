@@ -271,8 +271,8 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :card_index: __Dates__: Apr 08-12
 - :paperclip:  __Topics__: Random numbers have many applications in science and computer programming, especially when there are significant uncertainties in a phenomenon of interest. In this part of the course we'll look at some basic problems involving working with random numbers and creating simulations. Additionally, we continue the discussion about character strings with a first contact to Regular Expressions. 
 - :file_folder: __Notes__:
-    + [Introduction to random numbers](../tutorials/14-intro-to-random-numbers.md)
-    + [Coin toss shiny app](../apps/coin-toss)
+    + [Introduction to random numbers](https://github.com/ucb-stat133/stat133-tutorials/blob/master/12-intro-to-random-numbers.md)
+    + [Coin toss shiny app](https://github.com/ucb-stat133/stat133-fall-2018/tree/master/apps/coin-toss)
     + [Regexpal](http://regexpal.com.s3-website-us-east-1.amazonaws.com/) tester tool.
 - :book: __Reading__:
     + [Part 1 - How to build a Shiny app](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=0m0s) (video)
