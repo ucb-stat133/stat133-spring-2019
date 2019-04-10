@@ -277,7 +277,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :book: __Reading__:
     + [Part 1 - How to build a Shiny app](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=0m0s) (video)
 - :microscope: __Lab__:
-    + [Random numbers and simulations](../labs/lab11-random-simulations.md) (due Apr-12)
+    + [Random numbers and simulations](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab10-random-simulations.md) (due Apr-12)
 - :newspaper: __Misc__:
     + [Part 2 - How to customize reactions](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=42m2s) (video)
     + [Part 3 - How to customize appearance](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=1h32m41s) (video)
