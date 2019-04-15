@@ -295,10 +295,10 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :card_index: __Dates__: Apr 15-19
 - :paperclip:  __Topics__: At its heart, computing involves working with numbers. However, a considerable amount of information and data is in the form of text. To unleash the power of strings manipulation, we need to take things to the next level and learn about Regular Expressions. Namely, Regular expressions are a tool that allows us to describe a certain amount of text called "patterns". We'll describe the basic concepts of regex and the common operations to match text patterns.
 - :file_folder: __Notes__:
-    + [Long Jump World Record example](../tutorials/12-strings-example.md)
-    + [Log file example](../tutorials/13-more-regex.md)
+    + [Long Jump World Record example](https://www.gastonsanchez.com/r4strings/cleaning.html)
+    + [Log file example](https://www.gastonsanchez.com/r4strings/logs.html)
 - :book: __Reading__:
-    + [Handling Strings in R](http://www.gastonsanchez.com/r4strings) (by Sanchez)
+    + [Handling Strings in R](https://www.gastonsanchez.com/r4strings) (by Sanchez)
 - :microscope: __Lab__:
     + [Regular Expressions](../labs/lab10-regex-basics.md) (due Apr-19)
 - :bulb: __Cheat sheet__:
@@ -315,8 +315,8 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :card_index: __Dates__: Apr 22-26
 - :paperclip: __Topics__: Packages are the fundamental units of reproducible R code. They include reusable functions, the documentation that describes how to use them, and sample data. In this part we'll start describing how to turn your code into an R package.
 - :file_folder: __Notes__:
-    + [Programming S3 Classes](http://www.gastonsanchez.com/packyourcode/coin.html)
-    + [Methods](http://www.gastonsanchez.com/packyourcode/methods1.html) (by Sanchez)
+    + [Programming S3 Classes](https://www.gastonsanchez.com/packyourcode/coin.html)
+    + [Methods](https://www.gastonsanchez.com/packyourcode/methods1.html) (by Sanchez)
 - :book: __Reading__:
     + [Package Structure](http://r-pkgs.had.co.nz/package.html) (R packages by Wickham)
     + See package components: [http://r-pkgs.had.co.nz/](http://r-pkgs.had.co.nz/) (R packages by Wickham)
@@ -336,7 +336,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :card_index: __Dates__: Apr 29-May 03
 - :paperclip: __Topics__: Creating an R package can seem overwhelming at first. So we'll keep working on the creation of a relatively basic package. This will give you the opportunity to apply most of the concepts seen in the course.
 - :file_folder: __Notes__:
-    + [Pack YouR Code](http://www.gastonsanchez.com/packyourcode) (by Sanchez)
+    + [Pack YouR Code](https://www.gastonsanchez.com/packyourcode) (by Sanchez)
 - :book: __Reading__:
     + See package components: [http://r-pkgs.had.co.nz](http://r-pkgs.had.co.nz/) (R packages by Wickham)
 - :microscope: __Lab__:
