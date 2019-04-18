@@ -304,7 +304,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Regular Expressions cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//regular-expressions-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__:
-    + _Keep working on your workout02 assignment._
+    + [R Package](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/workout03.pdf)
 
 
 -----
@@ -325,7 +325,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Package Development cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//packages-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__: 
-    + TBA due May-03
+    + [R Package](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/workout03.pdf)
 
 
 -----
@@ -343,6 +343,9 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + Take advantage of lab discussion to work on the workout03 assignment
 - :bulb: __Cheat sheet__:
     + [Package Development cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//packages-cheatsheet.pdf)
+- :dart: __WORK-OUT 3__:
+    + _Keep working on your workout03 assignment._
+
 
 
 -----
