@@ -321,7 +321,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Package Structure](http://r-pkgs.had.co.nz/package.html) (R packages by Wickham)
     + See package components: [http://r-pkgs.had.co.nz/](http://r-pkgs.had.co.nz/) (R packages by Wickham)
 - :microscope: __Lab__:
-    + [HTML and Web scraping](../labs/lab12-web-scraping.md) (due Apr-26)
+    + [HTML and Web scraping](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab12-web-scraping.md) (due Apr-26)
 - :bulb: __Cheat sheet__:
     + [Package Development cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//packages-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__: 
