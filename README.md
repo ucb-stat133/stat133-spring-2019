@@ -357,7 +357,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :paperclip: __Topics__: Prepare for final examination
 - :file_folder: __Notes__:
     + No lecture. Instructor will hold OH (in 309 Evans)
-- :mortar_board: __FINAL__: May-15th, 7-10 pm (Room TBA)
+- :mortar_board: __FINAL__: May-15th, 7-10 pm, in Wheeler 150
     + More details about the final will be posted on bCourses
 
 
