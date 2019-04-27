@@ -344,7 +344,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Package Development cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//packages-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__:
-    + _Keep working on your workout03 assignment._
+    + _Keep working on your workout03 assignment._ (due May-03)
 
 
 
