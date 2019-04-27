@@ -304,7 +304,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Regular Expressions cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//regular-expressions-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__:
-    + [R Package](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/workout03.pdf)
+    + [R Package](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/workout03.pdf) (due May-03)
 
 
 -----
