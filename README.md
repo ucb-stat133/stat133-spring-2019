@@ -58,7 +58,7 @@ the pace of the course.
     + [First contact with R](https://github.com/ucb-stat133/stat133-tutorials/blob/master/01-intro-to-R.md) (tutorial)
     + [Intro to Rmd files](https://github.com/ucb-stat133/stat133-tutorials/blob/master/02-intro-to-Rmd-files.md) (tutorial)
 - :microscope: __Lab__:
-    + [Getting started with R and RStudio](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab01-R-basics.md) (due Feb-01, open till Feb-17)
+    + [Getting started with R and RStudio](labs/lab01-R-basics.md) (due Feb-01, open till Feb-17)
 - :newspaper: __Misc__:
     + [Introduction to R Markdown](http://rmarkdown.rstudio.com/lesson-1.html) (by RStudio)
 - :bulb: __Cheat sheet__: 
@@ -83,7 +83,7 @@ the pace of the course.
     + [Intro to vectors](https://github.com/ucb-stat133/stat133-tutorials/blob/master/03-intro-to-vectors.md) (tutorial)
     + [Intro to Data Technologies](https://www.stat.auckland.ac.nz/~paul/ItDT/itdt-2010-11-01.pdf) (preface, chapter 1, and chapter 5) (by Paul Murrell)
 - :microscope: __Lab__:
-    + [Getting started with vectors and factors](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab02-vector-basics.md) (due Feb-08, open till Feb-17)
+    + [Getting started with vectors and factors](labs/lab02-vector-basics.md) (due Feb-08, open till Feb-17)
 - :newspaper: __Misc__:
     + [chapter 20: Vectors](http://r4ds.had.co.nz/vectors.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__: 
@@ -108,7 +108,7 @@ the pace of the course.
     + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
     + ["dplyr" tutorial slides](https://github.com/ucb-stat133/stat133-slides/blob/master/dplyr-wickham.pdf) (by Hadley Wickham)
 - :microscope: __Lab__:
-    + [Data Frame Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab03-data-tables.md) (due Feb-17)
+    + [Data Frame Basics](labs/lab03-data-tables.md) (due Feb-17)
 - :newspaper: __Misc__:
     + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
     + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
@@ -132,7 +132,7 @@ the pace of the course.
 - :book: __Reading__:
     + ["ggplot2" lecture](https://github.com/ucb-stat133/stat133-slides/blob/master/ggplot-karthik.pdf) (by Karthik Ram)
 - :microscope: __Lab__:
-    + [Data Wrangling and Graphics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab04-dplyr-ggplot-basics.md) (due Feb-22)
+    + [Data Wrangling and Graphics](labs/lab04-dplyr-ggplot-basics.md) (due Feb-22)
 - :newspaper: __Misc__:
     + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham.pdf) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
@@ -158,7 +158,7 @@ the pace of the course.
     + [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) lessons 1-5 (by Ryan Chadwick)
     + [The Unix Shell](http://swcarpentry.github.io/shell-novice/) lessons 1-3 (by Software Carpentry)
 - :microscope: __Lab__:
-    + [Command Line Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab05-command-line-basics.md) (due Mar-01)
+    + [Command Line Basics](labs/lab05-command-line-basics.md) (due Mar-01)
 - :newspaper: __Misc__:
     + [Linux Command Line tutorial](https://www.guru99.com/terminal-file-manager.html) (by Guru99)
 - :bulb: __Cheat sheet__:
@@ -181,7 +181,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :book: __Reading__:
     + Read sections 4 to 9 in Part I [Installation](http://happygitwithr.com/installation-pain.html) (_Happy Git and GitHub for the useR_ by Jenny Bryan et al.)
 - :microscope: __Lab__:
-    + [Git Basics](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab06-git-basics.md) (due Mar-08)
+    + [Git Basics](labs/lab06-git-basics.md) (due Mar-08)
 - :newspaper: __Misc__:
     + [Data Import](http://r4ds.had.co.nz/data-import.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
@@ -203,7 +203,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Introduction to functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/07-intro-to-functions.md) (tutorial)
     + [Introduction to R expressions and conditionals](https://github.com/ucb-stat133/stat133-tutorials/blob/master/08-intro-to-expressions-conditionals.md) (tutorial)
 - :microscope: __Lab__:
-    + [Getting started with functions and conditionals](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab07-simple-functions.md) (due Mar-15)
+    + [Getting started with functions and conditionals](labs/lab07-simple-functions.md) (due Mar-15)
 - :newspaper: __Misc__: 
     + [chapter 19: Functions](http://r4ds.had.co.nz/functions.html) (_R for Data Science_ by Grolemund and Wickham)
 - :dart: __WARM-UP 5__:
@@ -223,7 +223,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Functions](http://adv-r.had.co.nz/Functions.html) (_Advanced R_ by H. Wickham)
     + [Environments](http://adv-r.had.co.nz/Environments.html) (_Advanced R_ by H. Wickham)
 - :microscope: __Lab__: 
-    + [Getting started with loops](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab08-simple-loops.md) (due Mar-22)
+    + [Getting started with loops](labs/lab08-simple-loops.md) (due Mar-22)
 - :newspaper: __Misc__:
     + [chapter 21: Iteration](http://r4ds.had.co.nz/iteration.html) (_R for Data Science_ by Grolemund and Wickham)
 - :dart: __WARM-UP 6__:
@@ -254,7 +254,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Character strings in R](http://www.gastonsanchez.com/r4strings/chars.html) (_r4strings_ by Sanchez)
     + [Basic string manipulations](http://www.gastonsanchez.com/r4strings/manip.html) (_r4strings_ by Sanchez)
 - :microscope: __Lab__: 
-    + [Getting started with strings](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab09-tests-strings-basics.md) (due Apr-05)
+    + [Getting started with strings](labs/lab09-tests-strings-basics.md) (due Apr-05)
 - :newspaper: __Misc__:
     + [chapter 14: Strings](http://r4ds.had.co.nz/strings.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
@@ -277,7 +277,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :book: __Reading__:
     + [Part 1 - How to build a Shiny app](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=0m0s) (video)
 - :microscope: __Lab__:
-    + [Random numbers and simulations](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab10-random-simulations.md) (due Apr-12)
+    + [Random numbers and simulations](labs/lab10-random-simulations.md) (due Apr-12)
 - :newspaper: __Misc__:
     + [Part 2 - How to customize reactions](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=42m2s) (video)
     + [Part 3 - How to customize appearance](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a/#t=1h32m41s) (video)
@@ -300,7 +300,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :book: __Reading__:
     + [Handling Strings in R](https://www.gastonsanchez.com/r4strings) (by Sanchez)
 - :microscope: __Lab__:
-    + [Regular Expressions](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab11-regex-basics.md) (due Apr-19)
+    + [Regular Expressions](labs/lab11-regex-basics.md) (due Apr-19)
 - :bulb: __Cheat sheet__:
     + [Regular Expressions cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//regular-expressions-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__:
@@ -321,7 +321,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
     + [Package Structure](http://r-pkgs.had.co.nz/package.html) (R packages by Wickham)
     + See package components: [http://r-pkgs.had.co.nz/](http://r-pkgs.had.co.nz/) (R packages by Wickham)
 - :microscope: __Lab__:
-    + [HTML and Web scraping](https://github.com/ucb-stat133/stat133-labs/blob/master/2019-spring/lab12-web-scraping.md) (due Apr-26)
+    + [HTML and Web scraping](labs/lab12-web-scraping.md) (due Apr-26)
 - :bulb: __Cheat sheet__:
     + [Package Development cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master//packages-cheatsheet.pdf)
 - :dart: __WORK-OUT 3__: 
